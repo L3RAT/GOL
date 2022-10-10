@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/leszczur/GoL",
+            "binaryPath": "/home/leszczur/GoL/GoL",
+            "binaryArgs": []
+        }
+    ]
+}
